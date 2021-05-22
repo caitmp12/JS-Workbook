@@ -34,4 +34,13 @@ secondVariable = "holaaaaa"
 // 1. Create a variable called yourName and set it equal to your name as a string. // Write an expression that takes the string "Hello, my name is" and the variable yourName so that it returns a new string with them concatenated. 
 
 let yourName = "Caitlin"
-console.log("Hello, my name is " + yourName)
+// console.log("Hello, my name is " + yourName)
+
+//Booleans Activity//
+
+const a = 6;
+const b = 100;
+const c = -5;
+const d = 3000;
+const e = "Jelly Bean";
+
